@@ -1,5 +1,7 @@
 _This is my first readme file created using terminal in ubuntu 20.04_
+
 Author: Felix Sarpong
+
 Date: 12/13/2023
 
 ### Description:
